@@ -1,0 +1,48 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: auto;
+}
+body {
+    background-image: linear-gradient(to bottom, #e64848, #ca4848, #db5454, #f34141);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    font-family: sans-serif;
+}
+h2{
+    color: aliceblue;
+    font-family: sans-serif;
+}
+h3{
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: x-large;
+}
+.botaos {
+    background: white;
+    box-shadow: 0 3px 6px rgba(0, 0, 1, 2);
+    font-weight: bold;
+    font-family: inherit;
+    font-size: 16px;
+    color: black;
+    border: none;
+    padding: 10px;
+    width: 80px;
+    border-radius: 10px;
+    margin-right: 18px;
+}
+.botaon {
+    background: white;
+    box-shadow: 0 3px 6px rgba(0, 0, 1, 2);
+    font-weight: bold;
+    font-family: inherit;
+    font-size: 16px;
+    color: black;
+    border: none;
+    padding: 10px;
+    width: 80px;
+    border-radius: 10px;
+}
