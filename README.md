@@ -1,6 +1,6 @@
 # Pedido de Namoro.
 Bem-vindo ao projeto "Pedido de Namoro"! Este é um projeto simples e interativo criado para fazer um pedido de namoro de uma forma única e divertida.
-O projeto pode ser acessado aqui.
+O projeto pode ser acessado aqui, link https://alexpablo-hub.github.io/pedido/
 
 # Instruções de Uso.
 Perguntas Iniciais:
@@ -29,7 +29,4 @@ ou atravez de um link de exibição que pode ser feito no git.
 # Autor
 Este projeto foi criado por Alex.
 
-Esperamos que você aproveite o pedido de namoro interativo! 💖
-
-link demonstração: https://alexpablo-hub.github.io/pedido/
-
+Espero que você aproveite o pedido de namoro interativo e divertido! 💖
