@@ -18,15 +18,15 @@ Após aceitar, uma mensagem final será exibida.
 # Clonagem do Projeto
 Para clonar e executar este projeto localmente, siga as instruções abaixo:
 
-Clone atravez do comando + link.
-git clone https://github.com/alexpablo-hub/pedido.git
+Clone atravez do git clone https://github.com/alexpablo-hub/pedido.git
+
 Navegue até o diretório do projeto
-cd 'seu diretório aqui'
+cd 'seu_diretório_aqui'
 
 Abra o arquivo 'index.html' no seu navegador para visualizar o projeto localmente.
 ou atravez de um link de exibição que pode ser feito no git.
 
 # Autor
-Este projeto foi criado por Alex.
+Este projeto foi criado por Alex Pablo.
 
 Espero que você aproveite o pedido de namoro interativo e divertido! 💖
