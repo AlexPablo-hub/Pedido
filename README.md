@@ -26,10 +26,12 @@ cd 'seu_diretório_aqui'
 Abra o arquivo 'index.html' no seu navegador para visualizar o projeto localmente.
 ou atravez de um link de exibição que pode ser feito no git.
 
-# Imagens de demonstração
-![Imagem de Exemplo](imagens/page1.png)
-![Imagem de Exemplo](imagens/page2.png)
-![Imagem de Exemplo](imagens/page3.png)
+# Imagens de Demonstração
+<p float="left">
+  <img src="imagens/page1.png" width="200" />
+  <img src="imagens/page2.png" width="200" /> 
+  <img src="imagens/page3.png" width="200" />
+</p>
 
 # Autor
 Este projeto foi criado por Alex Pablo.
