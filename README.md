@@ -36,4 +36,6 @@ ou atravez de um link de exibição que pode ser feito no git.
 # Autor
 Este projeto foi criado por Alex Pablo.
 
+Curso de Sistemas de Informação - UNEMAT.
+
 Espero que você aproveite o pedido de namoro interativo e divertido! 💖
