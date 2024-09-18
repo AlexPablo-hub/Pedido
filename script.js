@@ -1,32 +1,23 @@
 function sim() {
     alert("Você aceitou namorar comigo! :)");
     // redireciona para um URL apos aceitar
-    location.href = "#";
+    location.href="#";
 }
-
+function redirecionar() {
+    window.location.href = 'page2.html';
+  }
+function redirecionar2() {
+    window.location.href = 'page3.html';
+  }
+function redirecionar3() {
+    window.location.href = 'page4.html';
+  }
 function desvia(t) {
-    var btnNao = t;
-    var btnSim = document.getElementById('btn-sim');
-
-    // Muda a posição do botão "Não"
-    btnNao.style.position = 'absolute';
-    btnNao.style.bottom = geraPosicao(10, 90);
-    btnNao.style.left = geraPosicao(10, 90);
+    var btn = t;
+    btn.style.position = 'absolute';
+    btn.style.bottom = geraPosicao(10, 90);
+    btn.style.left = geraPosicao(10, 90);
     console.log("opa, desviei...");
-
-    // Reduz o tamanho do botão "Não"
-    var currentWidthNao = parseFloat(window.getComputedStyle(btnNao).width);
-    var currentHeightNao = parseFloat(window.getComputedStyle(btnNao).height);
-    if (currentWidthNao > 50) { // Define o tamanho mínimo do botão "Não"
-        btnNao.style.width = (currentWidthNao - 10) + 'px';
-        btnNao.style.height = (currentHeightNao - 5) + 'px';
-    }
-
-    // Aumenta o tamanho do botão "Sim"
-    var currentWidthSim = parseFloat(window.getComputedStyle(btnSim).width);
-    var currentHeightSim = parseFloat(window.getComputedStyle(btnSim).height);
-    btnSim.style.width = (currentWidthSim + 10) + 'px';
-    btnSim.style.height = (currentHeightSim + 5) + 'px';
 }
 
 function geraPosicao(min, max) {
