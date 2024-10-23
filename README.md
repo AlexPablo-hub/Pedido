@@ -28,8 +28,8 @@ ou atravez de um link de exibição que pode ser feito no git.
 
 # Imagens de Demonstração
 <p float="left">
-  <img src="imagens/page1.png" width="300" /><img src="imagens/page2.png" width="300" /> 
-  <img src="imagens/page3.png" width="300" />
+  <img src="imagens/page1.png" width="400" /> <img src="imagens/page2.png" width="400" /> 
+  <img src="imagens/page3.png" width="400" />
 </p>
 
 ## 👨‍💻 Desenvolvedor
