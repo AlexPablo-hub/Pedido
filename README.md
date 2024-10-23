@@ -28,14 +28,18 @@ ou atravez de um link de exibição que pode ser feito no git.
 
 # Imagens de Demonstração
 <p float="left">
-  <img src="imagens/page1.png" width="200" />
-  <img src="imagens/page2.png" width="200" /> 
-  <img src="imagens/page3.png" width="200" />
+  <img src="imagens/page1.png" width="300" /><img src="imagens/page2.png" width="300" /> 
+  <img src="imagens/page3.png" width="300" />
 </p>
 
-# Autor
-Este projeto foi criado por Alex Pablo.
+## 👨‍💻 Desenvolvedor
 
-Curso de Sistemas de Informação - UNEMAT.
+Este projeto foi desenvolvido por **Alex Pablo de Oliveira Moraes**. 
+
+Sou estudante de **Sistemas de Informação** na **UNEMAT**, apaixonado por tecnologia, programação e segurança de redes e tecnologias relacionadas ao desenvolvimento backend e segurança da informação.
+
+Você pode me encontrar nas redes sociais ou conferir meus outros projetos no meu perfil [GitHub](https://github.com/AlexPablo-hub).
+
+Se tiver alguma dúvida ou sugestão sobre o projeto, fique à vontade para entrar em contato!
 
 Espero que você aproveite o pedido de namoro interativo e divertido! 💖
